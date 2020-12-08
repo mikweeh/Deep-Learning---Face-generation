@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+FacesProject.py
+Manolada*
+PRUEBAS-dlnd_face_generation.ipynb
+__pycache__/
+assets/
+dimensiones.ods
+papers/
+processed-celeba*
+processed_celeba_small/
+train_samples.pkl
+
